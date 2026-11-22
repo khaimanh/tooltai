@@ -1,0 +1,33 @@
+{
+  "spec": 1,
+  "channel": "stable",
+  "active": "a",
+  "a": {
+    "version": "1.2.0",
+    "seq": 7,
+    "entry": "tooltaivideo.exe",
+    "files": {
+      "avcodec-63.dll": "7d773d36761dbdcb0bc86bef7c218de0de78cc8b8ec8b561c3b1efae0f992956",
+      "avformat-63.dll": "77d3ac2bd7177d146df6adb82ee042fe414f29c6b21ac826024e6e7d89567a47",
+      "avutil-61.dll": "fe89f8fd44ea1ec965a494b0b80247832759d58aa51d54e34d017b2b7266db46",
+      "libgcc_s_seh-1.dll": "791ebf66e99c7c1b4ed3666468cec45a0172b4c8942ac6c84c3e9cab3e1b5270",
+      "libstdc++-6.dll": "4e4822dc4aaa99383f581dae7ab9464ae89346c5ca742f7efbcdebe20b0fe7b5",
+      "libwinpthread-1.dll": "94a9a4e2fe27b4bc827a4b209e9deb4cc3dc34bc025df06b849144f9d4c588f8",
+      "licenses/ffmpeg/COPYING.LGPLv2.1": "246041b6ecf9bc32d718a62c57877c78b5eb397b6467e74ed7ae2626ab189c30",
+      "licenses/ffmpeg/FFmpeg-LICENSE.md": "e6dc72d5665a1ebd6dcc841de59278dad4ca77ecc47b03f1064a55c3e9ea8bb8",
+      "licenses/ffmpeg/REMUX-EXAMPLE-LICENSE.txt": "a4538465ea8847b60407f5feb71375d678303c76ae84d8c669e993e111a2d99e",
+      "licenses/ffmpeg/libgcc-COPYING.RUNTIME": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+      "licenses/ffmpeg/libgcc-COPYING3": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "licenses/ffmpeg/libstdc++-COPYING.RUNTIME": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+      "licenses/ffmpeg/libstdc++-COPYING3": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "licenses/ffmpeg/libwinpthread-COPYING": "63263614cdd29f2f93cba85e992f041b31f9fc7b4033692f31269489a8a1b177",
+      "tooltaivideo.exe": "11f284cd1076b0e08e0e7dd594d48dc8ab874a28df625e7c7330a729b0ab367b"
+    }
+  },
+  "b": null,
+  "pending": null,
+  "highest_seq": 7,
+  "highest_timestamp_version": 1795317999,
+  "bad_seqs": [],
+  "launcher_protocol": 1
+}
